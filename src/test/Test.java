@@ -5,5 +5,6 @@ public class Test {
 		System.out.println("kojima");
 		System.out.println("otsuka");
 		System.out.println("プルリクお試しですyo");
+		System.out.println("小菅ですが");
 	}
 }
